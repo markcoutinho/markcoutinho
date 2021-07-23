@@ -3,7 +3,7 @@
 - 👋 Hello, Im Mark Coutinho pursuing bachelor's in computer science engineering.
 - ⚡ I build websites for Fun.
 - 🖥️ Interested in Web Development.
-- 🖥️ Currently Learning Flutter.
+- 🖥️ Currently Learning React.
 
 ## Languages:
 ![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
