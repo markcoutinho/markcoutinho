@@ -32,7 +32,7 @@
 ## Contact:
 [![](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-coutinho-3557b31b4/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=markcoutinho2@gmail.com)
-![](https://img.shields.io/badge/KR4M%230609-141321?style=for-the-badge&logo=discord)
+![](https://img.shields.io/badge/KR4M%239533-141321?style=for-the-badge&logo=discord)
 [![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/markcoutinho2)
 [![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/KR4MM/)
 
