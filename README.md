@@ -1,9 +1,8 @@
 <h1 align="center">Welcome!!</h1>
 
-- 👋 Hello, Im Mark Coutinho pursuing bachelor's in computer science engineering.
+- 👋 Hello, I'm Mark Coutinho a computer engineer pursuing a Master's in Management and Information Systems.
 - ⚡ I build websites for Fun.
-- 🖥️ Interested in Web Development.
-- 🖥️ Currently Learning React.
+- 🖥️ Interested in Data Analytics.
 
 ## Languages:
 ![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
